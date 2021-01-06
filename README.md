@@ -1,2 +1,2 @@
-# ssr-react-redux-app-template-cra
-Create React App + ssr-react-redux-app-template
+In Progeress!
+Create React App with config for SSR
